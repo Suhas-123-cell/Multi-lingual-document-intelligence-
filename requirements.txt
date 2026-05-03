@@ -1,0 +1,9 @@
+gradio>=4.44.0
+pydantic>=2.6.0
+python-dotenv>=1.0.1
+requests>=2.32.0
+Pillow>=10.3.0
+pytesseract>=0.3.10
+rapidfuzz>=3.9.0
+jiwer>=3.0.4
+openai>=1.40.0
